@@ -6,4 +6,4 @@ Anatase's band gap data was sourced from Z. U. Rehman et al., ‘Photocatalytic 
 
 Ag NP's visible spectrum data was sourced from S. Singh, A. Bharti and V. K. Meena, “Green synthesis of multi-shaped silver nanoparticles: optical, morphological and antibacterial properties,” Journal of Materials Science: Materials in Electronics, vol. 26, no. 1, pp. 3638-3648, 2015.
 
-[![DOI](https://zenodo.org/badge/893148768.svg)](https://doi.org/10.5281/zenodo.14210183)
+[[![DOI](https://zenodo.org/badge/893148768.svg)](https://doi.org/10.5281/zenodo.14210183)
